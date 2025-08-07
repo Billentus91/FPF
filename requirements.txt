@@ -1,0 +1,9 @@
+streamlit
+numpy==2.0.2
+pandas==2.2.2
+yfinance==0.2.65
+scikit-learn
+tensorflow==2.19.0
+matplotlib
+seaborn
+joblib
