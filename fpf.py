@@ -108,7 +108,7 @@ def create_sequences(data, features, target, sequence_length=10):
 # STREAMLIT APP LAYOUT
 # ================================
 
-st.title("Stock Volatility Prediction Dashboard")
+st.title("Tanabyt Volatility Forecast")
 st.markdown("This dashboard predicts the 10-day rolling volatility for QQQ and SPY using two separate LSTM models trained on historical stock data.")
 
 # Sidebar for user input
